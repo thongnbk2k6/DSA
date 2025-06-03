@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\c++\wordle_game_ques\Ques_wordle_game\Ques_wordle_game\Main.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ques_wordle_game.vcxproj -> D:\c++\wordle_game_ques\Ques_wordle_game\x64\Debug\Ques_wordle_game.exe

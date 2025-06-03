@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\WORDLE_GAME_SOLUTION\\WORDLE_GAMES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F9A9DB-589F-4574-B51D-DE9BDC6EE876}|WORDLE_GAMES\\WORDLE_GAMES.vcxproj|D:\\c\u002B\u002B\\WORDLE_GAME_SOLUTION\\WORDLE_GAMES\\WORDLE_GAMES\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9F9A9DB-589F-4574-B51D-DE9BDC6EE876}|WORDLE_GAMES\\WORDLE_GAMES.vcxproj|solutionrelative:WORDLE_GAMES\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F9A9DB-589F-4574-B51D-DE9BDC6EE876}|WORDLE_GAMES\\WORDLE_GAMES.vcxproj|D:\\c\u002B\u002B\\WORDLE_GAME_SOLUTION\\WORDLE_GAMES\\WORDLE_GAMES\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F9F9A9DB-589F-4574-B51D-DE9BDC6EE876}|WORDLE_GAMES\\WORDLE_GAMES.vcxproj|solutionrelative:WORDLE_GAMES\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\WORDLE_GAME_SOLUTION\\WORDLE_GAMES\\WORDLE_GAMES\\input.txt",
+              "RelativeDocumentMoniker": "WORDLE_GAMES\\input.txt",
+              "ToolTip": "D:\\c\u002B\u002B\\WORDLE_GAME_SOLUTION\\WORDLE_GAMES\\WORDLE_GAMES\\input.txt",
+              "RelativeToolTip": "WORDLE_GAMES\\input.txt",
+              "ViewState": "AgIAAHEwAAAAAAAAAAAAAP0wAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-19T03:43:50.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\WORDLE_GAME_SOLUTION\\WORDLE_GAMES\\WORDLE_GAMES\\Main.cpp",
+              "RelativeDocumentMoniker": "WORDLE_GAMES\\Main.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\WORDLE_GAME_SOLUTION\\WORDLE_GAMES\\WORDLE_GAMES\\Main.cpp",
+              "RelativeToolTip": "WORDLE_GAMES\\Main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T03:31:47.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
