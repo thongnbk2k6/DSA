@@ -53,7 +53,7 @@
 ## 📬 Liên hệ
 
 > Nếu bạn thấy dự án này hữu ích, hãy ⭐ repo và chia sẻ cho bạn bè cùng học nhé!  
-> Mọi góp ý hoặc lỗi phát hiện xin vui lòng mở issue hoặc liên hệ: **nguyenhoangthongnbk2006@example.com**
+> Mọi góp ý hoặc lỗi phát hiện xin vui lòng mở issue hoặc liên hệ: **nguyenhoangthongnbk2006@gmail.com**
 
 ---
 
