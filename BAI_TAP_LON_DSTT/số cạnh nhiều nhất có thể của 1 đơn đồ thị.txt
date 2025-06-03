@@ -1,0 +1,2 @@
+số cạnh nhiều nhất có thể của 1 đơn
+do thi co 12 dinh: 12C2 (giua 2 dinh bat ki co 1 canh noi)

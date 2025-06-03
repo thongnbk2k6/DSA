@@ -1,0 +1,59 @@
+Nhập các giá trị rating vào, dùng dấu '?' cho các giá trị còn thiếu
+Nhập số lượng người dùng: 3
+Tên người dùng thứ 1: Thông
+Tên người dùng thứ 2: Duy
+Tên người dùng thứ 3: Thịnh
+Nhập số lượng sản phẩm: 4
+Tên sản phẩm thứ 1: Coca
+Tên sản phẩm thứ 2: Chanh Dây
+Tên sản phẩm thứ 3: Soda chanh
+Tên sản phẩm thứ 4: Fami canxi
+Nhập rating của Thông đối với sản phẩm Coca: 8
+Nhập rating của Thông đối với sản phẩm Chanh Dây: 8.5
+Nhập rating của Thông đối với sản phẩm Soda chanh: 9
+Nhập rating của Thông đối với sản phẩm Fami canxi: 8.5
+Nhập rating của Duy đối với sản phẩm Coca: ?
+Nhập rating của Duy đối với sản phẩm Chanh Dây: 7
+Nhập rating của Duy đối với sản phẩm Soda chanh: 8 
+Nhập rating của Duy đối với sản phẩm Fami canxi: 10
+Nhập rating của Thịnh đối với sản phẩm Coca: 7
+Nhập rating của Thịnh đối với sản phẩm Chanh Dây: ?
+Nhập rating của Thịnh đối với sản phẩm Soda chanh: 8
+Nhập rating của Thịnh đối với sản phẩm Fami canxi: 8
+[[ 8.   8.5  9.   8.5]
+ [ nan  7.   8.  10. ]
+ [ 7.   nan  8.   8. ]]
+
+[[ 8.   8.5  9.   8.5]
+ [ 8.   7.   8.  10. ]
+ [ 7.   7.7  8.   8. ]]
+
+Đối với Thông, thứ tự gợi ý mua hàng theo chiều giảm dần là:
+
+    1: Soda chanh với rating 9.0
+
+    2: Fami canxi với rating 8.5
+
+    3: Chanh Dây với rating 8.5
+
+    4: Coca với rating 8.0
+
+Đối với Duy, thứ tự gợi ý mua hàng theo chiều giảm dần là:
+
+    1: Fami canxi với rating 10.0
+
+    2: Soda chanh với rating 8.0
+
+    3: Coca với rating 8.0
+
+    4: Chanh Dây với rating 7.0
+
+Đối với Thịnh, thứ tự gợi ý mua hàng theo chiều giảm dần là:
+
+    1: Fami canxi với rating 8.0
+
+    2: Soda chanh với rating 8.0
+
+    3: Chanh Dây với rating 7.7
+
+    4: Coca với rating 7.0
